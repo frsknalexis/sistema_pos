@@ -1,0 +1,7 @@
+
+/views/img/
+/views/plugins/
+/views/bower_components/
+/views/dist/
+/views/assets/
+.htaccess
